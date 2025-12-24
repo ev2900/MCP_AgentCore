@@ -8,4 +8,4 @@ This approach to hosting MCP server benefits from built in logging, IAM authenti
 
 ## Example
 
-[![Launch CloudFormation Stack](https://sharkech-public.s3.amazonaws.com/misc-public/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=open-search-cloudwatch-alarms&templateURL=https://sharkech-public.s3.amazonaws.com/misc-public/mcp_agentcore.yaml)
+[![Launch CloudFormation Stack](https://sharkech-public.s3.amazonaws.com/misc-public/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=mcp-agentcore&templateURL=https://sharkech-public.s3.amazonaws.com/misc-public/mcp_agentcore.yaml)
