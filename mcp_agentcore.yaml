@@ -102,7 +102,7 @@ Resources:
     DependsOn: SageMakerUserProfile
     Properties:
       DomainId: !GetAtt SageMakerDomain.DomainId
-      SpaceName: pyiceberg-space
+      SpaceName: mcp-agentcore
       OwnershipSettings:
         OwnerUserProfileName: default
       SpaceSharingSettings:
